@@ -1,1 +1,1 @@
-# ROB501_ComputerVision
+# ROB501 - Computer Vision for Robotics
